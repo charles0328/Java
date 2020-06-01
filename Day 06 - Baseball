@@ -7,7 +7,7 @@ public class Baseball {
 		public static void main(String[] args) {
 			/*
 				Baseball
-				random number -> 3개		r1 != r2 != r3
+				random number -> 3개	r1 != r2 != r3
 				user number -> 3개
 		
 				비교
