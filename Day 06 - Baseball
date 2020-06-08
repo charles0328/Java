@@ -8,7 +8,7 @@ public class Baseball {
 			/*
 				Baseball
 				random number -> 3개		r1 != r2 != r3
-				user numbe -> 3개
+				user number -> 3개
 		
 				비교
 				메시지 출력 ?Strike ?Ball
